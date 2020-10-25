@@ -1,3 +1,6 @@
+# Deployed Website
+[Click here](https://umarfoo.github.io/Web-Design-Challenge/) to see the deployed website.
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 I didn't like the design which we had to copy so I upgraded the design. 
