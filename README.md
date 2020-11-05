@@ -1,5 +1,5 @@
 # Deployed Website
-[Click here](https://umarfoo.github.io/Web-Design-Challenge/) to see the deployed website.
+[Click here](https://umarfoo.github.io/Temperature_vs_Latitude_Web_Design/) to see the deployed website.
 
 # Website Development & Design - Web Visualization Dashboard (Latitude)
 
